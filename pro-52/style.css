@@ -1,0 +1,36 @@
+
+ul{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    color: #ffffff;
+   
+}
+
+body{
+    background-color:#12ace9;
+}
+
+h1{
+    background-color: #12ace9;
+    font-family:serif;
+    text-align: center;
+    color:#ffffffff
+}
+
+a:link{
+    color:#ffffff;
+}
+
+a:visited{
+    color:#ffffff;
+}
+
+.menu{
+    display: flex;
+    font-family:cursive;
+    font-size: 15px;
+}
+
+.ins{
+    color:#f7e7e7;
+}
